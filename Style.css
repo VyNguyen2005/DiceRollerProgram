@@ -1,0 +1,36 @@
+
+.class-container{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.submit-data{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(114, 114, 243);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.submit-data:hover{
+    background-color: rgb(23, 23, 230);
+}
+.submit-data:active{
+    background-color: rgb(9, 9, 97);
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#diceResult{
+    margin: 25px;
+}
+#diceImages img{
+    width: 150px;
+    margin: 5px;
+}
